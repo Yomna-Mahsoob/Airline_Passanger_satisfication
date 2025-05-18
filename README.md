@@ -57,15 +57,18 @@ The project features a custom-designed Tkinter GUI with:
 ### 📦 How to Run
 
 1. Clone the repo
-2. Install dependencies:
+    ```bash
+   git clone https://github.com/Yomna-Mahsoob/Airline_Passanger_satisfication
+   ```
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the Jupyter notebook to train and save the model:
+4. Run the Jupyter notebook to train and save the model:
    ```bash
    airline_model.ipynb
    ```
-4. Launch the GUI:
+5. Launch the GUI:
    ```bash
    python airline_model.py
    ```
