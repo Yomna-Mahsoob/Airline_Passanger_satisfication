@@ -111,10 +111,10 @@ Here’s a quick preview of the interface:
 
 
 ### 🩷 Made BY:
-- Thuraya Khaled
+- Thoraya Khaled
 - Yomna EL-Kobesy
 - Roquia Muhammad
 - Roquia Rady
 - Shahd Mazen
-- Shrouk Bakheet
-- Zeinab Gamal
+- Shrouk Bekheet
+- Zainab Gamal
