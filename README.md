@@ -108,3 +108,13 @@ This project is a great example of turning a machine learning model into a user-
 Here’s a quick preview of the interface:
 
 ![GUI Preview](https://github.com/Yomna-Mahsoob/Airline_Passanger_satisfication/blob/main/GUI.jpeg)
+
+
+### Made BY:
+- Thuraya Khaled
+- Yomna EL-Kobesy
+- Roquia Muhammad
+- Roquia Rady
+- Shahd Mazen
+- Shrouk Bakheet
+- Zeinab Gamal
