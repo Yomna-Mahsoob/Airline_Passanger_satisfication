@@ -66,11 +66,11 @@ The project features a custom-designed Tkinter GUI with:
    ```
 4. Run the Jupyter notebook to train and save the model:
    ```bash
-   airline_model.ipynb
+   python airline_model.py
    ```
 5. Launch the GUI:
    ```bash
-   python airline_model.py
+   python GUI.py
    ```
 
 ---
@@ -79,8 +79,8 @@ The project features a custom-designed Tkinter GUI with:
 
 ```
 📂 project-folder
-├── airline_model.ipynb       # Full analysis, model training, evaluation
-├── airline_model.py          # GUI app for predictions
+├── airline_model.py       # Full analysis, model training, evaluation
+├── GUI.py          # GUI app for predictions
 ├── xgb_model.pkl             # Saved XGBoost model
 ├── scaler.pkl                # Saved StandardScaler
 ├── plane.png                 # GUI airplane image
