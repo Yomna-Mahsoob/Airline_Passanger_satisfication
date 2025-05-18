@@ -106,3 +106,8 @@ This project is a great example of turning a machine learning model into a user-
 ### 🖼️ GUI Preview
 
 Here’s a quick preview of the interface:
+### 🖼️ GUI Preview
+
+Here’s a quick preview of the interface:
+
+![GUI Preview](GUI)
