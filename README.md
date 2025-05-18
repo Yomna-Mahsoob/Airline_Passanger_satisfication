@@ -41,18 +41,6 @@ This project aims to classify airline passengers as **Satisfied** or **Neutral/D
 
 ---
 
-### 🎀 The GUI
-
-The project features a custom-designed Tkinter GUI with:
-
-- Pink-themed visual design 🎨
-- Airplane icon integration ✈️
-- Friendly input fields for passenger details
-- One-click prediction using the trained XGBoost model
-- Helpful pop-up messages for input errors and results
-
----
-
 ### 📦 How to Run
 
 1. Clone the repo
@@ -88,14 +76,24 @@ The project features a custom-designed Tkinter GUI with:
 This project is an example of turning a machine learning model into a user-friendly product.It's perfect for those learning how to bridge the gap between **data science** and **real-world usability**.
 
 ---
+### 🎀 The GUI
 
+The project features a custom-designed Tkinter GUI with:
+
+- Pink-themed visual design 🎨
+- Airplane icon integration ✈️
+- Friendly input fields for passenger details
+- One-click prediction using the trained XGBoost model
+- Helpful pop-up messages for input errors and results
+
+---
 ### 🖼️ GUI Preview
 
 Here’s a quick preview of the interface:
 
 ![GUI Preview](https://github.com/Yomna-Mahsoob/Airline_Passanger_satisfication/blob/main/GUI.jpeg)
 
-
+---
 ### 🩷 Made BY:
 - Thoraya Khaled
 - Yomna EL-Kobesy
