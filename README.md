@@ -107,4 +107,4 @@ This project is a great example of turning a machine learning model into a user-
 
 Here’s a quick preview of the interface:
 
-![GUI Preview](GUI)
+![GUI Preview](https://github.com/Yomna-Mahsoob/Airline_Passanger_satisfication/blob/main/GUI.jpeg)
