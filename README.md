@@ -1,4 +1,4 @@
-## ✨ Airline Passenger Satisfaction Predictor ✨
+## ✨ Airline Passenger Satisfaction Predictor - Ai Project✨
 
 An end-to-end data science project that predicts airline passenger satisfaction using real-world travel survey data.It combines data preprocessing, machine learning, visualization, and a polished GUI using Tkinter.
 
