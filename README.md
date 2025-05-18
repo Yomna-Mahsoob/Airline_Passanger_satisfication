@@ -1,6 +1,6 @@
 ## ✨ Airline Passenger Satisfaction Predictor - Ai Project✨
 
-An end-to-end data science project that predicts airline passenger satisfaction using real-world travel survey data.It combines data preprocessing, machine learning, visualization, and a polished GUI using Tkinter.
+An end-to-end Ai project that predicts airline passenger satisfaction using real-world travel survey data.It combines data preprocessing, machine learning, visualization, and a polished GUI using Tkinter.
 
 ---
 
@@ -37,7 +37,6 @@ This project aims to classify airline passengers as **Satisfied** or **Neutral/D
 
 - Python (pandas, numpy, seaborn, matplotlib, scikit-learn, xgboost, tensorflow)
 - Tkinter (for GUI)
-- Pillow (for image support in GUI)
 - Jupyter Notebook (for analysis and development)
 
 ---
@@ -60,15 +59,12 @@ The project features a custom-designed Tkinter GUI with:
     ```bash
    git clone https://github.com/Yomna-Mahsoob/Airline_Passanger_satisfication
    ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the Jupyter notebook to train and save the model:
+
+2. Run the Jupyter notebook to train and save the model:
    ```bash
    python airline_model.py
    ```
-5. Launch the GUI:
+3. Launch the GUI:
    ```bash
    python GUI.py
    ```
@@ -83,23 +79,13 @@ The project features a custom-designed Tkinter GUI with:
 ├── GUI.py          # GUI app for predictions
 ├── xgb_model.pkl             # Saved XGBoost model
 ├── scaler.pkl                # Saved StandardScaler
-├── plane.png                 # GUI airplane image
 ```
 
 ---
 
 ### 💡 Inspiration
 
-This project is a great example of turning a machine learning model into a user-friendly product.It's perfect for those learning how to bridge the gap between **data science** and **real-world usability**.
-
----
-
-### 🧠 Future Improvements
-
-- Add drop-down fields for categorical inputs (e.g. class, gender)
-- Build a web version using Streamlit or Flask
-- Auto-suggest missing inputs or use sliders
-- Multi-language support (Arabic + English)
+This project is an example of turning a machine learning model into a user-friendly product.It's perfect for those learning how to bridge the gap between **data science** and **real-world usability**.
 
 ---
 
