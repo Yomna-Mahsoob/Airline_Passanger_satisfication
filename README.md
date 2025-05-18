@@ -110,4 +110,4 @@ Here’s a quick preview of the interface:
 
 Here’s a quick preview of the interface:
 
-![GUI Preview](/home/youmna/PycharmProjects/Airline_Passanger_satisfication/GUI)
+![GUI Preview](GUI)
