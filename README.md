@@ -48,7 +48,7 @@ This project aims to classify airline passengers as **Satisfied** or **Neutral/D
    git clone https://github.com/Yomna-Mahsoob/Airline_Passanger_satisfication
    ```
 
-2. Run the Jupyter notebook to train and save the model:
+2. Run to train and save the model:
    ```bash
    python airline_model.py
    ```
